@@ -12,7 +12,5 @@ NewsAPI
 Python
 
 
-
-![244781](https://github.com/yomoginna/news-selector/assets/98722875/063f27cd-3b80-4b0a-98b7-2fc8120915bc)
-
-![244782](https://github.com/yomoginna/news-selector/assets/98722875/57629833-d51c-45a9-b493-12272ebd3d2c)
+<img src="[***画像のURL***](https://github.com/yomoginna/news-selector/assets/98722875/063f27cd-3b80-4b0a-98b7-2fc8120915bc)" width="300">
+<img src="https://github.com/yomoginna/news-selector/assets/98722875/57629833-d51c-45a9-b493-12272ebd3d2c" width="300">
